@@ -1,2 +1,2 @@
-# exerc-cios_faculdade
+# exercicios_faculdade
 Repositório destinado a meus trabalhos da faculdade. 
